@@ -22,7 +22,7 @@
     "packageCopyright":          "Copyright © 2025 Cloudmersive, LLC.",
 
     "packageGuid": "d3c2b345-9f50-438e-afdf-4494fbd7bd59",
-    "library": "restsharp",
+    "library": "httpclient",
     "supportsFileParameters": true,
     "targetFramework": "netstandard2.0",
     "netCoreProjectFile": false
